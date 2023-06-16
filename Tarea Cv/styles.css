@@ -1,0 +1,34 @@
+body {
+    background-color: tan;
+}
+.container {
+    background-color: moccasin;
+    display: flex;
+    justify-content: center;
+}
+.container_data {
+    background-color:white;
+    height: 1200px;
+    width: 2290px;
+}
+#foto_cv {
+    height: 500px;
+    width: 400px;
+    position: relative;
+    left: 1800px;
+    top: 180px;
+}
+#data_personal{
+    position: relative;
+    left: 1800px;
+    bottom: 500px;
+}
+.experience_data {
+    position: relative;
+    bottom: 650px;
+    font-size: 30px;
+    left: 25px;
+}
+hr {
+    width: 2000px;
+}
