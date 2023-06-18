@@ -1,13 +1,13 @@
 body {
-    background-color: tan;
+    background-color: #85A389;
 }
 .container {
-    background-color: moccasin;
+    background-color: #A2CDB0;
     display: flex;
     justify-content: center;
 }
 .container_data {
-    background-color:white;
+    background-color:#FFD89C;
     height: 1200px;
     width: 2290px;
 }
@@ -30,5 +30,52 @@ body {
     left: 25px;
 }
 hr {
-    width: 2000px;
+    position: relative;
+    width: 1750px;
+    right: 267px;
 }
+.studies {
+    position: relative;
+    color: #11009E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom: 1050px;
+    left: 25px;
+    font-size: 30px;
+}
+.education {
+    position: relative;
+    bottom: 1070px;
+    left: 25px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.education_duration {
+    position: relative;
+    bottom: 1093px;
+    left: 28px;
+}
+.education_description {
+    position: relative;
+    bottom: 1108px;
+    left: 26px;
+    font-size: 20px;
+    color: #606C5D;
+}
+.education_2 {
+    position: relative;
+    font-size:30px ;
+    bottom: 1105px;
+    left: 25px;
+}
+.education_description_2 {
+    position: relative;
+    font-size:20px;
+    color: #606C5D;
+    bottom: 1128px;
+    left: 27px;
+}
+
+
+
+
+
