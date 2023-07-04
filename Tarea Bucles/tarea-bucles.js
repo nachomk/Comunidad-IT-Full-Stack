@@ -12,6 +12,7 @@
 
 // let numero = 9
 // if (numero > 0 && numero <= 10) {
+      console.log(`La tabla del número ${numero} es:`)
 //     for (i=1; i<=10; i++) {
 //         console.log(`${numero} x ${i} = ${numero*i}`)
 //     }
