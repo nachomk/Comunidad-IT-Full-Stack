@@ -1,6 +1,6 @@
 // 1) Escribe un codigo que recorra los números del 1 al 10 usando un bucle for. Por cada número, verifica si es par o impar utilizando una estructura condicional if. Imprime un mensaje indicando si el número es par o impar.
 
-// for (i=1; i<=10; i++ ) {
+// for (i=1; i<=10; i++) {
 //     if (i%2 == 0) {
 //         console.log(`${i} es par`)
 //     } else {
