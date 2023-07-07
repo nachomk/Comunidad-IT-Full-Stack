@@ -20,4 +20,4 @@ function filtroNumeros(arrayNumeros, string) {
     }
 }
 let arrayFiltros = [];
-filtroNumeros([1,2,5,10,19,25,33,100],'Imar');
+filtroNumeros([1,2,5,10,19,25,33,100],'Par');
