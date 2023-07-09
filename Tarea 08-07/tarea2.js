@@ -13,5 +13,6 @@ function esMayorDeEdad(persona) {
         console.log(`${persona.nombre} es menor de edad`);
     }
 }
+
 esMayorDeEdad(persona1);
 esMayorDeEdad(persona2);
