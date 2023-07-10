@@ -6,11 +6,11 @@ const persona2 = {
     nombre: 'Ana',
     edad: 29
 }
-function esMayorDeEdad(persona) {
-    if (persona.edad >= 18) {
-        console.log(`${persona.nombre} es mayor de edad`);
+function esMayorDeEdad(dato) {
+    if (dato.edad >= 18) {
+        console.log(`${dato.nombre} es mayor de edad`);
     } else {
-        console.log(`${persona.nombre} es menor de edad`);
+        console.log(`${dato.nombre} es menor de edad`);
     }
 }
 
